@@ -1,3 +1,3 @@
-# ok-yyyy
+# oknyyyy
 
-![Metrics](https://raw.githubusercontent.com/ok-yyyy/ok-yyyy/output/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/oknyyyy/oknyyyy/output/github-metrics.svg)
